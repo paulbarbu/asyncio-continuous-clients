@@ -23,11 +23,11 @@ Future improvements
 
 References
 ==========
-https://realpython.com/async-io-python/#setting-up-your-environment
-https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
-https://docs.python.org/3/library/asyncio-stream.html
-https://www.roguelynn.com/words/asyncio-graceful-shutdowns/
-https://docs.python.org/3/library/asyncio-eventloop.html#set-signal-handlers-for-sigint-and-sigterm
+* https://realpython.com/async-io-python/#setting-up-your-environment
+* https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+* https://docs.python.org/3/library/asyncio-stream.html
+* https://www.roguelynn.com/words/asyncio-graceful-shutdowns/
+* https://docs.python.org/3/library/asyncio-eventloop.html#set-signal-handlers-for-sigint-and-sigterm
 
 
 License
